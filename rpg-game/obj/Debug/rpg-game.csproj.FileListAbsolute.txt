@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\rpg-game\rpg-game\bin\Debug\rpg-game.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\rpg-game\rpg-game\bin\Debug\rpg-game.exe
+c:\users\usuario\documents\visual studio 2015\Projects\rpg-game\rpg-game\bin\Debug\rpg-game.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\rpg-game\rpg-game\obj\Debug\rpg-game.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\rpg-game\rpg-game\obj\Debug\rpg-game.exe
+c:\users\usuario\documents\visual studio 2015\Projects\rpg-game\rpg-game\obj\Debug\rpg-game.pdb
